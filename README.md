@@ -4,4 +4,4 @@ Esse é o repositório do projeto de Javascript.
 
 Game:
 
-<img src="C:\Users\na_co\AppData\Roaming\Typora\typora-user-images\image-20220607145001649.png" alt="image-20220607145001649" style="zoom:45%;" />
+![memory game](https://user-images.githubusercontent.com/105800188/172461393-bc621ca5-4e78-465f-b278-0a8962a1c61e.png)
